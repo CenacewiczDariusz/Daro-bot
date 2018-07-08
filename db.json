@@ -1,0 +1,2701 @@
+{
+      "pomiar": [
+        {
+          "id":1,
+          "date": "01.04.2018",
+          "time": "00:30",
+          "energiaCzynna": 12,
+          "energiaBierna": 7,
+          "temperatuta": 15
+        },
+           {
+          "id":2,
+          "date": "01.04.2018",
+          "time": "01:00",
+          "energiaCzynna": 13,
+          "energiaBierna": 7.5,
+          "temperatuta": 15
+        },
+           {
+          "id":3,
+          "date": "01.04.2018",
+          "time": "01:30",
+          "energiaCzynna": 14,
+          "energiaBierna": 8,
+          "temperatuta": 15
+        },
+           {
+          "id":4,
+          "date": "01.04.2018",
+          "time": "02:00",
+          "energiaCzynna": 15,
+          "energiaBierna": 8.5,
+          "temperatuta": 14
+        },
+           {
+          "id":5,
+          "date": "01.04.2018",
+          "time": "02:30",
+          "energiaCzynna": 16,
+          "energiaBierna": 9,
+          "temperatuta": 15
+        },
+           {
+          "id":6,
+          "date": "01.04.2018",
+          "time": "03:00",
+          "energiaCzynna": 17,
+          "energiaBierna": 9.5,
+          "temperatuta": 15
+        },
+           {
+          "id":7,
+          "date": "01.04.2018",
+          "time": "03:30",
+          "energiaCzynna": 18,
+          "energiaBierna": 10,
+          "temperatuta": 15
+        },
+           {
+          "id":8,
+          "date": "01.04.2018",
+          "time": "04:00",
+          "energiaCzynna": 20,
+          "energiaBierna": 10.5,
+          "temperatuta": 15
+        },
+           {
+          "id":9,
+          "date": "01.04.2018",
+          "time": "04:30",
+          "energiaCzynna": 21,
+          "energiaBierna": 11,
+          "temperatuta": 16
+        },
+           {
+          "id":10,
+          "date": "01.04.2018",
+          "time": "05:00",
+          "energiaCzynna": 22,
+          "energiaBierna": 11.5,
+          "temperatuta": 16
+        },
+           {
+          "id":11,
+          "date": "01.04.2018",
+          "time": "05:30",
+          "energiaCzynna": 23,
+          "energiaBierna": 12,
+          "temperatuta": 16
+        },
+           {
+          "id":12,
+          "date": "01.04.2018",
+          "time": "06:00",
+          "energiaCzynna": 24,
+          "energiaBierna": 12.5,
+          "temperatuta": 17
+        },
+           {
+          "id":13,
+          "date": "01.04.2018",
+          "time": "06:30",
+          "energiaCzynna": 25,
+          "energiaBierna": 13,
+          "temperatuta": 17
+        },
+           {
+          "id":14,
+          "date": "01.04.2018",
+          "time": "07:00",
+          "energiaCzynna": 26,
+          "energiaBierna": 14,
+          "temperatuta": 17
+        },
+           {
+          "id":15,
+          "date": "01.04.2018",
+          "time": "07:30",
+          "energiaCzynna": 27,
+          "energiaBierna": 15,
+          "temperatuta": 17
+        },
+           {
+          "id":16,
+          "date": "01.04.2018",
+          "time": "08:00",
+          "energiaCzynna": 29,
+          "energiaBierna": 16,
+          "temperatuta": 18
+        },
+           {
+          "id":17,
+          "date": "01.04.2018",
+          "time": "08:30",
+          "energiaCzynna": 31,
+          "energiaBierna": 17,
+          "temperatuta": 18
+        },
+           {
+          "id":18,
+          "date": "01.04.2018",
+          "time": "09:00",
+          "energiaCzynna": 33.5,
+          "energiaBierna": 18.5,
+          "temperatuta": 19
+        },
+           {
+          "id":19,
+          "date": "01.04.2018",
+          "time": "09:30",
+          "energiaCzynna": 35,
+          "energiaBierna": 20,
+          "temperatuta": 19
+        },
+           {
+          "id":20,
+          "date": "01.04.2018",
+          "time": "10:00",
+          "energiaCzynna": 37.5,
+          "energiaBierna": 21.5,
+          "temperatuta": 19
+        },
+           {
+          "id":21,
+          "date": "01.04.2018",
+          "time": "10:30",
+          "energiaCzynna": 39,
+          "energiaBierna": 22,
+          "temperatuta": 20
+        },
+           {
+          "id":22,
+          "date": "01.04.2018",
+          "time": "11:00",
+          "energiaCzynna": 42,
+          "energiaBierna": 22.5,
+          "temperatuta": 21
+        },
+           {
+          "id":23,
+          "date": "01.04.2018",
+          "time": "11:30",
+          "energiaCzynna": 44,
+          "energiaBierna": 23,
+          "temperatuta": 22
+        },
+           {
+          "id":24,
+          "date": "01.04.2018",
+          "time": "12:00",
+          "energiaCzynna": 46.5,
+          "energiaBierna": 23.5,
+          "temperatuta": 22
+        },
+           {
+          "id":25,
+          "date": "01.04.2018",
+          "time": "12:30",
+          "energiaCzynna": 48,
+          "energiaBierna": 24,
+          "temperatuta": 23
+        },
+           {
+          "id":26,
+          "date": "01.04.2018",
+          "time": "13:00",
+          "energiaCzynna": 50.5,
+          "energiaBierna": 24.5,
+          "temperatuta": 23
+        },
+           {
+          "id":27,
+          "date": "01.04.2018",
+          "time": "13:30",
+          "energiaCzynna": 53,
+          "energiaBierna": 25.5,
+          "temperatuta": 24
+        },
+           {
+          "id":28,
+          "date": "01.04.2018",
+          "time": "14:00",
+          "energiaCzynna": 54.5,
+          "energiaBierna": 26,
+          "temperatuta": 23
+        },
+           {
+          "id":29,
+          "date": "01.04.2018",
+          "time": "14:30",
+          "energiaCzynna": 56,
+          "energiaBierna": 27,
+          "temperatuta": 23
+        },
+           {
+          "id":30,
+          "date": "01.04.2018",
+          "time": "15:00",
+          "energiaCzynna": 57,
+          "energiaBierna": 27.5,
+          "temperatuta": 23
+        },
+           {
+          "id":31,
+          "date": "01.04.2018",
+          "time": "15:30",
+          "energiaCzynna": 57.5,
+          "energiaBierna": 28,
+          "temperatuta": 23
+        },
+           {
+          "id":32,
+          "date": "01.04.2018",
+          "time": "16:00",
+          "energiaCzynna": 58,
+          "energiaBierna": 28.5,
+          "temperatuta": 22
+        },
+           {
+          "id":33,
+          "date": "01.04.2018",
+          "time": "16:30",
+          "energiaCzynna": 60,
+          "energiaBierna": 30,
+          "temperatuta": 22
+        },
+           {
+          "id":34,
+          "date": "01.04.2018",
+          "time": "17:00",
+          "energiaCzynna": 63,
+          "energiaBierna": 31,
+          "temperatuta": 21
+        },
+           {
+          "id":35,
+          "date": "01.04.2018",
+          "time": "17:30",
+          "energiaCzynna": 64,
+          "energiaBierna": 32,
+          "temperatuta": 20
+        },
+           {
+          "id":36,
+          "date": "01.04.2018",
+          "time": "18:00",
+          "energiaCzynna": 67,
+          "energiaBierna": 33,
+          "temperatuta": 19
+        },
+           {
+          "id":37,
+          "date": "01.04.2018",
+          "time": "18:30",
+          "energiaCzynna": 70,
+          "energiaBierna": 34.5,
+          "temperatuta": 18
+        },
+           {
+          "id":38,
+          "date": "01.04.2018",
+          "time": "19:00",
+          "energiaCzynna": 74,
+          "energiaBierna": 35.5,
+          "temperatuta": 17
+        },
+           {
+          "id":39,
+          "date": "01.04.2018",
+          "time": "19:30",
+          "energiaCzynna": 76,
+          "energiaBierna": 37,
+          "temperatuta": 17
+        },
+        
+           {
+          "id":40,
+          "date": "01.04.2018",
+          "time": "20:00",
+          "energiaCzynna": 79,
+          "energiaBierna": 39,
+          "temperatuta": 16
+        },
+           {
+          "id":41,
+          "date": "01.04.2018",
+          "time": "20:30",
+          "energiaCzynna": 82,
+          "energiaBierna": 41,
+          "temperatuta": 16
+        },
+           {
+          "id":42,
+          "date": "01.04.2018",
+          "time": "21:00",
+          "energiaCzynna": 85,
+          "energiaBierna": 43,
+          "temperatuta": 15
+        },
+           {
+          "id":43,
+          "date": "01.04.2018",
+          "time": "21:30",
+          "energiaCzynna": 88,
+          "energiaBierna": 45,
+          "temperatuta": 15
+        },
+           {
+          "id":44,
+          "date": "01.04.2018",
+          "time": "22:00",
+          "energiaCzynna": 92,
+          "energiaBierna": 48,
+          "temperatuta": 15
+        },
+           {
+          "id":45,
+          "date": "01.04.2018",
+          "time": "22:30",
+          "energiaCzynna": 95,
+          "energiaBierna":50,
+          "temperatuta": 15
+        },
+           {
+          "id":46,
+          "date": "01.04.2018",
+          "time": "23:00",
+          "energiaCzynna": 98,
+          "energiaBierna":51,
+          "temperatuta": 16
+        },
+           {
+          "id":47,
+          "date": "01.04.2018",
+          "time": "23:30",
+          "energiaCzynna": 99,
+          "energiaBierna":51.5,
+          "temperatuta": 16
+        },
+                   {
+          "id":48,
+          "date": "02.04.2018",
+          "time": "00:00",
+          "energiaCzynna": 100,
+          "energiaBierna":52,
+          "temperatuta": 16
+        },
+        {
+          "id":49,
+          "date": "02.04.2018",
+          "time": "00:30",
+          "energiaCzynna": 101,
+          "energiaBierna": 53,
+          "temperatuta": 15
+        },
+           {
+          "id":50,
+          "date": "02.04.2018",
+          "time": "01:00",
+          "energiaCzynna": 102,
+          "energiaBierna": 54,
+          "temperatuta": 15
+        },
+           {
+          "id":51,
+          "date": "02.04.2018",
+          "time": "01:30",
+          "energiaCzynna": 103,
+          "energiaBierna": 55,
+          "temperatuta": 15
+        },
+           {
+          "id":52,
+          "date": "02.04.2018",
+          "time": "02:00",
+          "energiaCzynna": 104,
+          "energiaBierna": 56,
+          "temperatuta": 16
+        },
+           {
+          "id":53,
+          "date": "02.04.2018",
+          "time": "02:30",
+          "energiaCzynna": 105,
+          "energiaBierna": 57,
+          "temperatuta": 17
+        },
+           {
+          "id":54,
+          "date": "02.04.2018",
+          "time": "03:00",
+          "energiaCzynna": 106,
+          "energiaBierna": 58,
+          "temperatuta": 17
+        },
+           {
+          "id":55,
+          "date": "02.04.2018",
+          "time": "03:30",
+          "energiaCzynna": 107,
+          "energiaBierna": 59,
+          "temperatuta": 17
+        },
+           {
+          "id":56,
+          "date": "02.04.2018",
+          "time": "04:00",
+          "energiaCzynna": 108,
+          "energiaBierna": 60,
+          "temperatuta": 18
+        },
+           {
+          "id":57,
+          "date": "02.04.2018",
+          "time": "04:30",
+          "energiaCzynna": 109,
+          "energiaBierna": 61,
+          "temperatuta": 18
+        },
+           {
+          "id":58,
+          "date": "02.04.2018",
+          "time": "05:00",
+          "energiaCzynna": 110,
+          "energiaBierna": 62,
+          "temperatuta": 18
+        },
+           {
+          "id":59,
+          "date": "02.04.2018",
+          "time": "05:30",
+          "energiaCzynna": 111,
+          "energiaBierna": 63,
+          "temperatuta": 18
+        },
+           {
+          "id":60,
+          "date": "02.04.2018",
+          "time": "06:00",
+          "energiaCzynna": 112,
+          "energiaBierna": 64,
+          "temperatuta": 19
+        },
+           {
+          "id":61,
+          "date": "02.04.2018",
+          "time": "06:30",
+          "energiaCzynna": 113,
+          "energiaBierna": 65,
+          "temperatuta": 19
+        },
+           {
+          "id":62,
+          "date": "02.04.2018",
+          "time": "07:00",
+          "energiaCzynna": 114,
+          "energiaBierna": 66,
+          "temperatuta": 19
+        },
+           {
+          "id":63,
+          "date": "02.04.2018",
+          "time": "07:30",
+          "energiaCzynna": 115,
+          "energiaBierna": 67,
+          "temperatuta": 20
+        },
+           {
+          "id":64,
+          "date": "02.04.2018",
+          "time": "08:00",
+          "energiaCzynna": 117,
+          "energiaBierna": 68,
+          "temperatuta": 20
+        },
+           {
+          "id":65,
+          "date": "02.04.2018",
+          "time": "08:30",
+          "energiaCzynna": 119,
+          "energiaBierna": 70,
+          "temperatuta": 21
+        },
+           {
+          "id":66,
+          "date": "02.04.2018",
+          "time": "09:00",
+          "energiaCzynna": 121.5,
+          "energiaBierna": 72,
+          "temperatuta": 22
+        },
+           {
+          "id":67,
+          "date": "02.04.2018",
+          "time": "09:30",
+          "energiaCzynna": 123,
+          "energiaBierna": 73,
+          "temperatuta": 23
+        },
+           {
+          "id":68,
+          "date": "02.04.2018",
+          "time": "10:00",
+          "energiaCzynna": 125,
+          "energiaBierna": 74,
+          "temperatuta": 23
+        },
+           {
+          "id":69,
+          "date": "02.04.2018",
+          "time": "10:30",
+          "energiaCzynna": 128,
+          "energiaBierna": 75,
+          "temperatuta": 24
+        },
+           {
+          "id":70,
+          "date": "02.04.2018",
+          "time": "11:00",
+          "energiaCzynna": 130,
+          "energiaBierna": 77,
+          "temperatuta": 24
+        },
+           {
+          "id":71,
+          "date": "02.04.2018",
+          "time": "11:30",
+          "energiaCzynna": 132,
+          "energiaBierna": 79,
+          "temperatuta": 25
+        },
+           {
+          "id":72,
+          "date": "02.04.2018",
+          "time": "12:00",
+          "energiaCzynna": 134,
+          "energiaBierna": 80,
+          "temperatuta": 27
+        },
+           {
+          "id":73,
+          "date": "02.04.2018",
+          "time": "12:30",
+          "energiaCzynna": 135,
+          "energiaBierna": 82,
+          "temperatuta": 28
+        },
+           {
+          "id":74,
+          "date": "02.04.2018",
+          "time": "13:00",
+          "energiaCzynna": 137.5,
+          "energiaBierna": 82.5,
+          "temperatuta": 28
+        },
+           {
+          "id":75,
+          "date": "02.04.2018",
+          "time": "13:30",
+          "energiaCzynna": 139,
+          "energiaBierna": 84,
+          "temperatuta": 28
+        },
+           {
+          "id":76,
+          "date": "02.04.2018",
+          "time": "14:00",
+          "energiaCzynna": 141,
+          "energiaBierna": 85,
+          "temperatuta": 27
+        },
+           {
+          "id":77,
+          "date": "02.04.2018",
+          "time": "14:30",
+          "energiaCzynna": 143,
+          "energiaBierna": 86,
+          "temperatuta": 27
+        },
+           {
+          "id":78,
+          "date": "02.04.2018",
+          "time": "15:00",
+          "energiaCzynna": 144,
+          "energiaBierna": 87,
+          "temperatuta": 26
+        },
+           {
+          "id":79,
+          "date": "02.04.2018",
+          "time": "15:30",
+          "energiaCzynna": 145,
+          "energiaBierna": 88,
+          "temperatuta": 26
+        },
+           {
+          "id":80,
+          "date": "02.04.2018",
+          "time": "16:00",
+          "energiaCzynna": 146,
+          "energiaBierna": 89,
+          "temperatuta": 26
+        },
+           {
+          "id":81,
+          "date": "02.04.2018",
+          "time": "16:30",
+          "energiaCzynna": 149,
+          "energiaBierna": 91,
+          "temperatuta": 26
+        },
+           {
+          "id":82,
+          "date": "02.04.2018",
+          "time": "17:00",
+          "energiaCzynna": 152,
+          "energiaBierna": 93,
+          "temperatuta": 25
+        },
+           {
+          "id":83,
+          "date": "02.04.2018",
+          "time": "17:30",
+          "energiaCzynna": 155,
+          "energiaBierna": 94,
+          "temperatuta": 24
+        },
+           {
+          "id":84,
+          "date": "02.04.2018",
+          "time": "18:00",
+          "energiaCzynna": 158,
+          "energiaBierna": 95,
+          "temperatuta": 24
+        },
+           {
+          "id":85,
+          "date": "02.04.2018",
+          "time": "18:30",
+          "energiaCzynna": 160,
+          "energiaBierna": 96,
+          "temperatuta": 23
+        },
+           {
+          "id":86,
+          "date": "02.04.2018",
+          "time": "19:00",
+          "energiaCzynna": 163,
+          "energiaBierna": 98,
+          "temperatuta": 23
+        },
+           {
+          "id":87,
+          "date": "02.04.2018",
+          "time": "19:30",
+          "energiaCzynna": 165,
+          "energiaBierna": 100,
+          "temperatuta": 23
+        },
+        
+           {
+          "id":88,
+          "date": "02.04.2018",
+          "time": "20:00",
+          "energiaCzynna": 168,
+          "energiaBierna": 101,
+          "temperatuta": 22
+        },
+           {
+          "id":89,
+          "date": "02.04.2018",
+          "time": "20:30",
+          "energiaCzynna": 170,
+          "energiaBierna": 103,
+          "temperatuta": 22
+        },
+           {
+          "id":90,
+          "date": "02.04.2018",
+          "time": "21:00",
+          "energiaCzynna": 173,
+          "energiaBierna": 104,
+          "temperatuta": 21
+        },
+           {
+          "id":91,
+          "date": "02.04.2018",
+          "time": "21:30",
+          "energiaCzynna": 175,
+          "energiaBierna": 105,
+          "temperatuta": 20
+        },
+           {
+          "id":92,
+          "date": "02.04.2018",
+          "time": "22:00",
+          "energiaCzynna": 178,
+          "energiaBierna": 106,
+          "temperatuta": 19
+        },
+           {
+          "id":93,
+          "date": "02.04.2018",
+          "time": "22:30",
+          "energiaCzynna": 180,
+          "energiaBierna":107,
+          "temperatuta": 18
+        },
+           {
+          "id":94,
+          "date": "02.04.2018",
+          "time": "23:00",
+          "energiaCzynna": 182,
+          "energiaBierna":108,
+          "temperatuta": 18
+        },
+           {
+          "id":95,
+          "date": "02.04.2018",
+          "time": "23:30",
+          "energiaCzynna": 184,
+          "energiaBierna":109,
+          "temperatuta": 17
+        },
+                   {
+          "id":96,
+          "date": "03.04.2018",
+          "time": "00:00",
+          "energiaCzynna": 185,
+          "energiaBierna":111,
+          "temperatuta": 17
+        },
+        {
+          "id":97,
+          "date": "03.04.2018",
+          "time": "00:30",
+          "energiaCzynna": 186,
+          "energiaBierna": 112,
+          "temperatuta": 16
+        },
+           {
+          "id":98,
+          "date": "03.04.2018",
+          "time": "01:00",
+          "energiaCzynna": 187,
+          "energiaBierna": 112.5,
+          "temperatuta": 16
+        },
+           {
+          "id":99,
+          "date": "03.04.2018",
+          "time": "01:30",
+          "energiaCzynna": 188,
+          "energiaBierna": 113,
+          "temperatuta": 16
+        },
+           {
+          "id":100,
+          "date": "03.04.2018",
+          "time": "02:00",
+          "energiaCzynna": 189,
+          "energiaBierna": 113.5,
+          "temperatuta": 16
+        },
+           {
+          "id":101,
+          "date": "03.04.2018",
+          "time": "02:30",
+          "energiaCzynna": 190,
+          "energiaBierna": 114,
+          "temperatuta": 16
+        },
+           {
+          "id":102,
+          "date": "03.04.2018",
+          "time": "03:00",
+          "energiaCzynna": 191,
+          "energiaBierna": 114.5,
+          "temperatuta": 16
+        },
+           {
+          "id":103,
+          "date": "03.04.2018",
+          "time": "03:30",
+          "energiaCzynna": 192,
+          "energiaBierna": 115,
+          "temperatuta": 16
+        },
+           {
+          "id":104,
+          "date": "03.04.2018",
+          "time": "04:00",
+          "energiaCzynna": 194,
+          "energiaBierna": 115.5,
+          "temperatuta": 16
+        },
+           {
+          "id":105,
+          "date": "03.04.2018",
+          "time": "04:30",
+          "energiaCzynna": 195,
+          "energiaBierna": 116,
+          "temperatuta": 16
+        },
+           {
+          "id":106,
+          "date": "03.04.2018",
+          "time": "05:00",
+          "energiaCzynna": 196,
+          "energiaBierna": 116.5,
+          "temperatuta": 16
+        },
+           {
+          "id":107,
+          "date": "03.04.2018",
+          "time": "05:30",
+          "energiaCzynna": 197,
+          "energiaBierna": 117,
+          "temperatuta": 16
+        },
+           {
+          "id":108,
+          "date": "03.04.2018",
+          "time": "06:00",
+          "energiaCzynna": 198,
+          "energiaBierna": 117.5,
+          "temperatuta": 17
+        },
+           {
+          "id":109,
+          "date": "03.04.2018",
+          "time": "06:30",
+          "energiaCzynna": 199,
+          "energiaBierna": 118,
+          "temperatuta": 17
+        },
+           {
+          "id":110,
+          "date": "03.04.2018",
+          "time": "07:00",
+          "energiaCzynna": 200,
+          "energiaBierna": 118.5,
+          "temperatuta": 18
+        },
+           {
+          "id":111,
+          "date": "03.04.2018",
+          "time": "07:30",
+          "energiaCzynna": 201,
+          "energiaBierna": 119,
+          "temperatuta": 18
+        },
+           {
+          "id":112,
+          "date": "03.04.2018",
+          "time": "08:00",
+          "energiaCzynna": 203,
+          "energiaBierna": 120,
+          "temperatuta": 18
+        },
+           {
+          "id":113,
+          "date": "03.04.2018",
+          "time": "08:30",
+          "energiaCzynna": 205,
+          "energiaBierna": 121,
+          "temperatuta": 18
+        },
+           {
+          "id":114,
+          "date": "03.04.2018",
+          "time": "09:00",
+          "energiaCzynna": 207,
+          "energiaBierna": 123,
+          "temperatuta": 19
+        },
+           {
+          "id":115,
+          "date": "03.04.2018",
+          "time": "09:30",
+          "energiaCzynna": 210,
+          "energiaBierna": 125,
+          "temperatuta": 20
+        },
+           {
+          "id":116,
+          "date": "03.04.2018",
+          "time": "10:00",
+          "energiaCzynna": 213,
+          "energiaBierna": 127,
+          "temperatuta": 20
+        },
+           {
+          "id":117,
+          "date": "03.04.2018",
+          "time": "10:30",
+          "energiaCzynna": 215,
+          "energiaBierna": 128,
+          "temperatuta": 20
+        },
+           {
+          "id":118,
+          "date": "03.04.2018",
+          "time": "11:00",
+          "energiaCzynna": 218,
+          "energiaBierna": 129,
+          "temperatuta": 21
+        },
+           {
+          "id":119,
+          "date": "03.04.2018",
+          "time": "11:30",
+          "energiaCzynna": 220,
+          "energiaBierna": 130.5,
+          "temperatuta": 22
+        },
+           {
+          "id":120,
+          "date": "03.04.2018",
+          "time": "12:00",
+          "energiaCzynna": 222,
+          "energiaBierna": 131.5,
+          "temperatuta": 22
+        },
+           {
+          "id":121,
+          "date": "03.04.2018",
+          "time": "12:30",
+          "energiaCzynna": 225.5,
+          "energiaBierna": 133,
+          "temperatuta": 22
+        },
+           {
+          "id":122,
+          "date": "03.04.2018",
+          "time": "13:00",
+          "energiaCzynna": 227,
+          "energiaBierna": 135,
+          "temperatuta": 22
+        },
+           {
+          "id":123,
+          "date": "03.04.2018",
+          "time": "13:30",
+          "energiaCzynna": 230,
+          "energiaBierna": 136.5,
+          "temperatuta": 21
+        },
+           {
+          "id":124,
+          "date": "03.04.2018",
+          "time": "14:00",
+          "energiaCzynna": 232,
+          "energiaBierna": 138,
+          "temperatuta": 20
+        },
+           {
+          "id":125,
+          "date": "03.04.2018",
+          "time": "14:30",
+          "energiaCzynna": 235,
+          "energiaBierna": 139,
+          "temperatuta": 19
+        },
+           {
+          "id":126,
+          "date": "03.04.2018",
+          "time": "15:00",
+          "energiaCzynna": 237,
+          "energiaBierna": 141,
+          "temperatuta": 19
+        },
+           {
+          "id":127,
+          "date": "03.04.2018",
+          "time": "15:30",
+          "energiaCzynna": 239.5,
+          "energiaBierna": 142.5,
+          "temperatuta": 19
+        },
+           {
+          "id":128,
+          "date": "03.04.2018",
+          "time": "16:00",
+          "energiaCzynna": 241,
+          "energiaBierna": 144,
+          "temperatuta": 18
+        },
+           {
+          "id":129,
+          "date": "03.04.2018",
+          "time": "16:30",
+          "energiaCzynna": 243.5,
+          "energiaBierna": 146,
+          "temperatuta": 18
+        },
+           {
+          "id":130,
+          "date": "03.04.2018",
+          "time": "17:00",
+          "energiaCzynna": 245,
+          "energiaBierna": 147,
+          "temperatuta": 17
+        },
+           {
+          "id":131,
+          "date": "03.04.2018",
+          "time": "17:30",
+          "energiaCzynna": 248,
+          "energiaBierna": 149,
+          "temperatuta": 17
+        },
+           {
+          "id":132,
+          "date": "03.04.2018",
+          "time": "18:00",
+          "energiaCzynna": 250,
+          "energiaBierna": 151,
+          "temperatuta": 16
+        },
+           {
+          "id":133,
+          "date": "03.04.2018",
+          "time": "18:30",
+          "energiaCzynna": 253,
+          "energiaBierna": 152.5,
+          "temperatuta": 16
+        },
+           {
+          "id":134,
+          "date": "03.04.2018",
+          "time": "19:00",
+          "energiaCzynna": 255,
+          "energiaBierna": 154,
+          "temperatuta": 16
+        },
+           {
+          "id":135,
+          "date": "03.04.2018",
+          "time": "19:30",
+          "energiaCzynna": 258,
+          "energiaBierna": 156,
+          "temperatuta": 16
+        },
+        
+           {
+          "id":136,
+          "date": "03.04.2018",
+          "time": "20:00",
+          "energiaCzynna": 260,
+          "energiaBierna": 158,
+          "temperatuta": 16
+        },
+           {
+          "id":137,
+          "date": "03.04.2018",
+          "time": "20:30",
+          "energiaCzynna": 263,
+          "energiaBierna": 160,
+          "temperatuta": 16
+        },
+           {
+          "id":138,
+          "date": "03.04.2018",
+          "time": "21:00",
+          "energiaCzynna": 265.5,
+          "energiaBierna": 162.5,
+          "temperatuta": 15
+        },
+           {
+          "id":139,
+          "date": "03.04.2018",
+          "time": "21:30",
+          "energiaCzynna": 267.5,
+          "energiaBierna": 165.5,
+          "temperatuta": 15
+        },
+           {
+          "id":140,
+          "date": "03.04.2018",
+          "time": "22:00",
+          "energiaCzynna": 269.5,
+          "energiaBierna": 167,
+          "temperatuta": 15
+        },
+           {
+          "id":141,
+          "date": "03.04.2018",
+          "time": "22:30",
+          "energiaCzynna": 273,
+          "energiaBierna": 170,
+          "temperatuta": 15
+        },
+           {
+          "id":142,
+          "date": "03.04.2018",
+          "time": "23:00",
+          "energiaCzynna": 276,
+          "energiaBierna":173,
+          "temperatuta": 15
+        },
+           {
+          "id":143,
+          "date": "03.04.2018",
+          "time": "23:30",
+          "energiaCzynna": 278,
+          "energiaBierna":175,
+          "temperatuta": 15
+        },
+                   {
+          "id":144,
+          "date": "04.04.2018",
+          "time": "00:00",
+          "energiaCzynna": 279,
+          "energiaBierna":176,
+          "temperatuta": 15
+        },
+        {
+          "id":145,
+          "date": "04.04.2018",
+          "time": "00:30",
+          "energiaCzynna": 280,
+          "energiaBierna": 177,
+          "temperatuta": 15
+        },
+           {
+          "id":146,
+          "date": "04.04.2018",
+          "time": "01:00",
+          "energiaCzynna": 281,
+          "energiaBierna": 178,
+          "temperatuta": 15
+        },
+           {
+          "id":147,
+          "date": "04.04.2018",
+          "time": "01:30",
+          "energiaCzynna": 282,
+          "energiaBierna": 179,
+          "temperatuta": 15
+        },
+           {
+          "id":148,
+          "date": "04.04.2018",
+          "time": "02:00",
+          "energiaCzynna": 283,
+          "energiaBierna": 180,
+          "temperatuta": 14
+        },
+           {
+          "id":149,
+          "date": "04.04.2018",
+          "time": "02:30",
+          "energiaCzynna": 284,
+          "energiaBierna": 181,
+          "temperatuta": 15
+        },
+           {
+          "id":150,
+          "date": "04.04.2018",
+          "time": "03:00",
+          "energiaCzynna": 285,
+          "energiaBierna": 182,
+          "temperatuta": 15
+        },
+           {
+          "id":151,
+          "date": "04.04.2018",
+          "time": "03:30",
+          "energiaCzynna": 286,
+          "energiaBierna": 183,
+          "temperatuta": 15
+        },
+           {
+          "id":152,
+          "date": "04.04.2018",
+          "time": "04:00",
+          "energiaCzynna": 287,
+          "energiaBierna": 184,
+          "temperatuta": 15
+        },
+           {
+          "id":153,
+          "date": "04.04.2018",
+          "time": "04:30",
+          "energiaCzynna": 288,
+          "energiaBierna": 185,
+          "temperatuta": 16
+        },
+           {
+          "id":154,
+          "date": "04.04.2018",
+          "time": "05:00",
+          "energiaCzynna": 289,
+          "energiaBierna": 186,
+          "temperatuta": 16
+        },
+           {
+          "id":155,
+          "date": "04.04.2018",
+          "time": "05:30",
+          "energiaCzynna": 290,
+          "energiaBierna": 187,
+          "temperatuta": 16
+        },
+           {
+          "id":156,
+          "date": "04.04.2018",
+          "time": "06:00",
+          "energiaCzynna": 291,
+          "energiaBierna": 188,
+          "temperatuta": 17
+        },
+           {
+          "id":157,
+          "date": "04.04.2018",
+          "time": "06:30",
+          "energiaCzynna": 292,
+          "energiaBierna": 189,
+          "temperatuta": 16
+        },
+           {
+          "id":158,
+          "date": "04.04.2018",
+          "time": "07:00",
+          "energiaCzynna": 293,
+          "energiaBierna": 190,
+          "temperatuta": 16
+        },
+           {
+          "id":159,
+          "date": "04.04.2018",
+          "time": "07:30",
+          "energiaCzynna": 294,
+          "energiaBierna": 191,
+          "temperatuta": 16
+        },
+           {
+          "id":160,
+          "date": "04.04.2018",
+          "time": "08:00",
+          "energiaCzynna": 296,
+          "energiaBierna": 192,
+          "temperatuta": 17
+        },
+           {
+          "id":161,
+          "date": "04.04.2018",
+          "time": "08:30",
+          "energiaCzynna": 298,
+          "energiaBierna": 193,
+          "temperatuta": 18
+        },
+           {
+          "id":162,
+          "date": "04.04.2018",
+          "time": "09:00",
+          "energiaCzynna": 300,
+          "energiaBierna": 193.5,
+          "temperatuta": 19
+        },
+           {
+          "id":163,
+          "date": "04.04.2018",
+          "time": "09:30",
+          "energiaCzynna": 303,
+          "energiaBierna": 194,
+          "temperatuta": 19
+        },
+           {
+          "id":164,
+          "date": "04.04.2018",
+          "time": "10:00",
+          "energiaCzynna": 306,
+          "energiaBierna": 195,
+          "temperatuta": 19
+        },
+           {
+          "id":165,
+          "date": "04.04.2018",
+          "time": "10:30",
+          "energiaCzynna": 308,
+          "energiaBierna": 196,
+          "temperatuta": 20
+        },
+           {
+          "id":166,
+          "date": "04.04.2018",
+          "time": "11:00",
+          "energiaCzynna": 310,
+          "energiaBierna": 197,
+          "temperatuta": 21
+        },
+           {
+          "id":167,
+          "date": "04.04.2018",
+          "time": "11:30",
+          "energiaCzynna": 312,
+          "energiaBierna": 199,
+          "temperatuta": 21
+        },
+           {
+          "id":168,
+          "date": "04.04.2018",
+          "time": "12:00",
+          "energiaCzynna": 314.5,
+          "energiaBierna": 200,
+          "temperatuta": 22
+        },
+           {
+          "id":169,
+          "date": "04.04.2018",
+          "time": "12:30",
+          "energiaCzynna": 316.5,
+          "energiaBierna": 201,
+          "temperatuta": 23
+        },
+           {
+          "id":170,
+          "date": "04.04.2018",
+          "time": "13:00",
+          "energiaCzynna": 318,
+          "energiaBierna": 202,
+          "temperatuta": 23
+        },
+           {
+          "id":171,
+          "date": "04.04.2018",
+          "time": "13:30",
+          "energiaCzynna": 320,
+          "energiaBierna": 203,
+          "temperatuta": 24
+        },
+           {
+          "id":172,
+          "date": "04.04.2018",
+          "time": "14:00",
+          "energiaCzynna": 322,
+          "energiaBierna": 204,
+          "temperatuta": 24
+        },
+           {
+          "id":173,
+          "date": "04.04.2018",
+          "time": "14:30",
+          "energiaCzynna": 323,
+          "energiaBierna": 204.5,
+          "temperatuta": 24
+        },
+           {
+          "id":174,
+          "date": "04.04.2018",
+          "time": "15:00",
+          "energiaCzynna": 325,
+          "energiaBierna": 205.5,
+          "temperatuta": 23
+        },
+           {
+          "id":175,
+          "date": "04.04.2018",
+          "time": "15:30",
+          "energiaCzynna": 327,
+          "energiaBierna": 206.5,
+          "temperatuta": 23
+        },
+           {
+          "id":176,
+          "date": "04.04.2018",
+          "time": "16:00",
+          "energiaCzynna": 329,
+          "energiaBierna": 207,
+          "temperatuta": 22
+        },
+           {
+          "id":177,
+          "date": "04.04.2018",
+          "time": "16:30",
+          "energiaCzynna": 331,
+          "energiaBierna": 208,
+          "temperatuta": 22
+        },
+           {
+          "id":178,
+          "date": "04.04.2018",
+          "time": "17:00",
+          "energiaCzynna": 333,
+          "energiaBierna": 209,
+          "temperatuta": 22
+        },
+           {
+          "id":179,
+          "date": "04.04.2018",
+          "time": "17:30",
+          "energiaCzynna": 335,
+          "energiaBierna": 210,
+          "temperatuta": 20
+        },
+           {
+          "id":180,
+          "date": "04.04.2018",
+          "time": "18:00",
+          "energiaCzynna": 337,
+          "energiaBierna": 211,
+          "temperatuta": 19
+        },
+           {
+          "id":181,
+          "date": "04.04.2018",
+          "time": "18:30",
+          "energiaCzynna": 339.5,
+          "energiaBierna": 212,
+          "temperatuta": 18
+        },
+           {
+          "id":182,
+          "date": "04.04.2018",
+          "time": "19:00",
+          "energiaCzynna": 341.5,
+          "energiaBierna": 213,
+          "temperatuta": 17
+        },
+           {
+          "id":183,
+          "date": "04.04.2018",
+          "time": "19:30",
+          "energiaCzynna": 343,
+          "energiaBierna": 215,
+          "temperatuta": 17
+        },
+        
+           {
+          "id":184,
+          "date": "04.04.2018",
+          "time": "20:00",
+          "energiaCzynna": 345,
+          "energiaBierna": 216,
+          "temperatuta": 16
+        },
+           {
+          "id":185,
+          "date": "04.04.2018",
+          "time": "20:30",
+          "energiaCzynna": 347,
+          "energiaBierna": 218,
+          "temperatuta": 15
+        },
+           {
+          "id":186,
+          "date": "04.04.2018",
+          "time": "21:00",
+          "energiaCzynna": 349,
+          "energiaBierna": 220,
+          "temperatuta": 15
+        },
+           {
+          "id":187,
+          "date": "04.04.2018",
+          "time": "21:30",
+          "energiaCzynna": 352,
+          "energiaBierna": 222,
+          "temperatuta": 15
+        },
+           {
+          "id":188,
+          "date": "04.04.2018",
+          "time": "22:00",
+          "energiaCzynna": 355,
+          "energiaBierna": 224,
+          "temperatuta": 15
+        },
+           {
+          "id":189,
+          "date": "04.04.2018",
+          "time": "22:30",
+          "energiaCzynna": 337,
+          "energiaBierna":226,
+          "temperatuta": 15
+        },
+           {
+          "id":190,
+          "date": "04.04.2018",
+          "time": "23:00",
+          "energiaCzynna": 339,
+          "energiaBierna":227,
+          "temperatuta": 16
+        },
+           {
+          "id":191,
+          "date": "04.04.2018",
+          "time": "23:30",
+          "energiaCzynna": 341,
+          "energiaBierna":229.5,
+          "temperatuta": 16
+        },
+                   {
+          "id":192,
+          "date": "05.04.2018",
+          "time": "00:00",
+          "energiaCzynna": 342.5,
+          "energiaBierna":231,
+          "temperatuta": 16
+        },
+        {
+          "id":1,
+          "date": "01.04.2018",
+          "time": "00:30",
+          "energiaCzynna": 12,
+          "energiaBierna": 7,
+          "temperatuta": 15
+        },
+           {
+          "id":2,
+          "date": "01.04.2018",
+          "time": "01:00",
+          "energiaCzynna": 13,
+          "energiaBierna": 7.5,
+          "temperatuta": 15
+        },
+           {
+          "id":3,
+          "date": "01.04.2018",
+          "time": "01:30",
+          "energiaCzynna": 14,
+          "energiaBierna": 8,
+          "temperatuta": 15
+        },
+           {
+          "id":4,
+          "date": "01.04.2018",
+          "time": "02:00",
+          "energiaCzynna": 15,
+          "energiaBierna": 8.5,
+          "temperatuta": 14
+        },
+           {
+          "id":5,
+          "date": "01.04.2018",
+          "time": "02:30",
+          "energiaCzynna": 16,
+          "energiaBierna": 9,
+          "temperatuta": 15
+        },
+           {
+          "id":6,
+          "date": "01.04.2018",
+          "time": "03:00",
+          "energiaCzynna": 17,
+          "energiaBierna": 9.5,
+          "temperatuta": 15
+        },
+           {
+          "id":7,
+          "date": "01.04.2018",
+          "time": "03:30",
+          "energiaCzynna": 18,
+          "energiaBierna": 10,
+          "temperatuta": 15
+        },
+           {
+          "id":8,
+          "date": "01.04.2018",
+          "time": "04:00",
+          "energiaCzynna": 20,
+          "energiaBierna": 10.5,
+          "temperatuta": 15
+        },
+           {
+          "id":9,
+          "date": "01.04.2018",
+          "time": "04:30",
+          "energiaCzynna": 21,
+          "energiaBierna": 11,
+          "temperatuta": 16
+        },
+           {
+          "id":10,
+          "date": "01.04.2018",
+          "time": "05:00",
+          "energiaCzynna": 22,
+          "energiaBierna": 11.5,
+          "temperatuta": 16
+        },
+           {
+          "id":11,
+          "date": "01.04.2018",
+          "time": "05:30",
+          "energiaCzynna": 23,
+          "energiaBierna": 12,
+          "temperatuta": 16
+        },
+           {
+          "id":12,
+          "date": "01.04.2018",
+          "time": "06:00",
+          "energiaCzynna": 24,
+          "energiaBierna": 12.5,
+          "temperatuta": 17
+        },
+           {
+          "id":13,
+          "date": "01.04.2018",
+          "time": "06:30",
+          "energiaCzynna": 25,
+          "energiaBierna": 13,
+          "temperatuta": 17
+        },
+           {
+          "id":14,
+          "date": "01.04.2018",
+          "time": "07:00",
+          "energiaCzynna": 26,
+          "energiaBierna": 14,
+          "temperatuta": 17
+        },
+           {
+          "id":15,
+          "date": "01.04.2018",
+          "time": "07:30",
+          "energiaCzynna": 27,
+          "energiaBierna": 15,
+          "temperatuta": 17
+        },
+           {
+          "id":16,
+          "date": "01.04.2018",
+          "time": "08:00",
+          "energiaCzynna": 29,
+          "energiaBierna": 16,
+          "temperatuta": 18
+        },
+           {
+          "id":17,
+          "date": "01.04.2018",
+          "time": "08:30",
+          "energiaCzynna": 31,
+          "energiaBierna": 17,
+          "temperatuta": 18
+        },
+           {
+          "id":18,
+          "date": "01.04.2018",
+          "time": "09:00",
+          "energiaCzynna": 33.5,
+          "energiaBierna": 18.5,
+          "temperatuta": 19
+        },
+           {
+          "id":19,
+          "date": "01.04.2018",
+          "time": "09:30",
+          "energiaCzynna": 35,
+          "energiaBierna": 20,
+          "temperatuta": 19
+        },
+           {
+          "id":20,
+          "date": "01.04.2018",
+          "time": "10:00",
+          "energiaCzynna": 37.5,
+          "energiaBierna": 21.5,
+          "temperatuta": 19
+        },
+           {
+          "id":21,
+          "date": "01.04.2018",
+          "time": "10:30",
+          "energiaCzynna": 39,
+          "energiaBierna": 22,
+          "temperatuta": 20
+        },
+           {
+          "id":22,
+          "date": "01.04.2018",
+          "time": "11:00",
+          "energiaCzynna": 42,
+          "energiaBierna": 22.5,
+          "temperatuta": 21
+        },
+           {
+          "id":23,
+          "date": "01.04.2018",
+          "time": "11:30",
+          "energiaCzynna": 44,
+          "energiaBierna": 23,
+          "temperatuta": 22
+        },
+           {
+          "id":24,
+          "date": "01.04.2018",
+          "time": "12:00",
+          "energiaCzynna": 46.5,
+          "energiaBierna": 23.5,
+          "temperatuta": 22
+        },
+           {
+          "id":25,
+          "date": "01.04.2018",
+          "time": "12:30",
+          "energiaCzynna": 48,
+          "energiaBierna": 24,
+          "temperatuta": 23
+        },
+           {
+          "id":26,
+          "date": "01.04.2018",
+          "time": "13:00",
+          "energiaCzynna": 50.5,
+          "energiaBierna": 24.5,
+          "temperatuta": 23
+        },
+           {
+          "id":27,
+          "date": "01.04.2018",
+          "time": "13:30",
+          "energiaCzynna": 53,
+          "energiaBierna": 25.5,
+          "temperatuta": 24
+        },
+           {
+          "id":28,
+          "date": "01.04.2018",
+          "time": "14:00",
+          "energiaCzynna": 54.5,
+          "energiaBierna": 26,
+          "temperatuta": 23
+        },
+           {
+          "id":29,
+          "date": "01.04.2018",
+          "time": "14:30",
+          "energiaCzynna": 56,
+          "energiaBierna": 27,
+          "temperatuta": 23
+        },
+           {
+          "id":30,
+          "date": "01.04.2018",
+          "time": "15:00",
+          "energiaCzynna": 57,
+          "energiaBierna": 27.5,
+          "temperatuta": 23
+        },
+           {
+          "id":31,
+          "date": "01.04.2018",
+          "time": "15:30",
+          "energiaCzynna": 57.5,
+          "energiaBierna": 28,
+          "temperatuta": 23
+        },
+           {
+          "id":32,
+          "date": "01.04.2018",
+          "time": "16:00",
+          "energiaCzynna": 58,
+          "energiaBierna": 28.5,
+          "temperatuta": 22
+        },
+           {
+          "id":33,
+          "date": "01.04.2018",
+          "time": "16:30",
+          "energiaCzynna": 60,
+          "energiaBierna": 30,
+          "temperatuta": 22
+        },
+           {
+          "id":34,
+          "date": "01.04.2018",
+          "time": "17:00",
+          "energiaCzynna": 63,
+          "energiaBierna": 31,
+          "temperatuta": 21
+        },
+           {
+          "id":35,
+          "date": "01.04.2018",
+          "time": "17:30",
+          "energiaCzynna": 64,
+          "energiaBierna": 32,
+          "temperatuta": 20
+        },
+           {
+          "id":36,
+          "date": "01.04.2018",
+          "time": "18:00",
+          "energiaCzynna": 67,
+          "energiaBierna": 33,
+          "temperatuta": 19
+        },
+           {
+          "id":37,
+          "date": "01.04.2018",
+          "time": "18:30",
+          "energiaCzynna": 70,
+          "energiaBierna": 34.5,
+          "temperatuta": 18
+        },
+           {
+          "id":38,
+          "date": "01.04.2018",
+          "time": "19:00",
+          "energiaCzynna": 74,
+          "energiaBierna": 35.5,
+          "temperatuta": 17
+        },
+           {
+          "id":39,
+          "date": "01.04.2018",
+          "time": "19:30",
+          "energiaCzynna": 76,
+          "energiaBierna": 37,
+          "temperatuta": 17
+        },
+        
+           {
+          "id":40,
+          "date": "01.04.2018",
+          "time": "20:00",
+          "energiaCzynna": 79,
+          "energiaBierna": 39,
+          "temperatuta": 16
+        },
+           {
+          "id":41,
+          "date": "01.04.2018",
+          "time": "20:30",
+          "energiaCzynna": 82,
+          "energiaBierna": 41,
+          "temperatuta": 16
+        },
+           {
+          "id":42,
+          "date": "01.04.2018",
+          "time": "21:00",
+          "energiaCzynna": 85,
+          "energiaBierna": 43,
+          "temperatuta": 15
+        },
+           {
+          "id":43,
+          "date": "01.04.2018",
+          "time": "21:30",
+          "energiaCzynna": 88,
+          "energiaBierna": 45,
+          "temperatuta": 15
+        },
+           {
+          "id":44,
+          "date": "01.04.2018",
+          "time": "22:00",
+          "energiaCzynna": 92,
+          "energiaBierna": 48,
+          "temperatuta": 15
+        },
+           {
+          "id":45,
+          "date": "01.04.2018",
+          "time": "22:30",
+          "energiaCzynna": 95,
+          "energiaBierna":50,
+          "temperatuta": 15
+        },
+           {
+          "id":46,
+          "date": "01.04.2018",
+          "time": "23:00",
+          "energiaCzynna": 98,
+          "energiaBierna":51,
+          "temperatuta": 16
+        },
+           {
+          "id":47,
+          "date": "01.04.2018",
+          "time": "23:30",
+          "energiaCzynna": 99,
+          "energiaBierna":51.5,
+          "temperatuta": 16
+        },
+                   {
+          "id":48,
+          "date": "02.04.2018",
+          "time": "00:00",
+          "energiaCzynna": 100,
+          "energiaBierna":52,
+          "temperatuta": 16
+        },
+        {
+          "id":1,
+          "date": "01.04.2018",
+          "time": "00:30",
+          "energiaCzynna": 12,
+          "energiaBierna": 7,
+          "temperatuta": 15
+        },
+           {
+          "id":2,
+          "date": "01.04.2018",
+          "time": "01:00",
+          "energiaCzynna": 13,
+          "energiaBierna": 7.5,
+          "temperatuta": 15
+        },
+           {
+          "id":3,
+          "date": "01.04.2018",
+          "time": "01:30",
+          "energiaCzynna": 14,
+          "energiaBierna": 8,
+          "temperatuta": 15
+        },
+           {
+          "id":4,
+          "date": "01.04.2018",
+          "time": "02:00",
+          "energiaCzynna": 15,
+          "energiaBierna": 8.5,
+          "temperatuta": 14
+        },
+           {
+          "id":5,
+          "date": "01.04.2018",
+          "time": "02:30",
+          "energiaCzynna": 16,
+          "energiaBierna": 9,
+          "temperatuta": 15
+        },
+           {
+          "id":6,
+          "date": "01.04.2018",
+          "time": "03:00",
+          "energiaCzynna": 17,
+          "energiaBierna": 9.5,
+          "temperatuta": 15
+        },
+           {
+          "id":7,
+          "date": "01.04.2018",
+          "time": "03:30",
+          "energiaCzynna": 18,
+          "energiaBierna": 10,
+          "temperatuta": 15
+        },
+           {
+          "id":8,
+          "date": "01.04.2018",
+          "time": "04:00",
+          "energiaCzynna": 20,
+          "energiaBierna": 10.5,
+          "temperatuta": 15
+        },
+           {
+          "id":9,
+          "date": "01.04.2018",
+          "time": "04:30",
+          "energiaCzynna": 21,
+          "energiaBierna": 11,
+          "temperatuta": 16
+        },
+           {
+          "id":10,
+          "date": "01.04.2018",
+          "time": "05:00",
+          "energiaCzynna": 22,
+          "energiaBierna": 11.5,
+          "temperatuta": 16
+        },
+           {
+          "id":11,
+          "date": "01.04.2018",
+          "time": "05:30",
+          "energiaCzynna": 23,
+          "energiaBierna": 12,
+          "temperatuta": 16
+        },
+           {
+          "id":12,
+          "date": "01.04.2018",
+          "time": "06:00",
+          "energiaCzynna": 24,
+          "energiaBierna": 12.5,
+          "temperatuta": 17
+        },
+           {
+          "id":13,
+          "date": "01.04.2018",
+          "time": "06:30",
+          "energiaCzynna": 25,
+          "energiaBierna": 13,
+          "temperatuta": 17
+        },
+           {
+          "id":14,
+          "date": "01.04.2018",
+          "time": "07:00",
+          "energiaCzynna": 26,
+          "energiaBierna": 14,
+          "temperatuta": 17
+        },
+           {
+          "id":15,
+          "date": "01.04.2018",
+          "time": "07:30",
+          "energiaCzynna": 27,
+          "energiaBierna": 15,
+          "temperatuta": 17
+        },
+           {
+          "id":16,
+          "date": "01.04.2018",
+          "time": "08:00",
+          "energiaCzynna": 29,
+          "energiaBierna": 16,
+          "temperatuta": 18
+        },
+           {
+          "id":17,
+          "date": "01.04.2018",
+          "time": "08:30",
+          "energiaCzynna": 31,
+          "energiaBierna": 17,
+          "temperatuta": 18
+        },
+           {
+          "id":18,
+          "date": "01.04.2018",
+          "time": "09:00",
+          "energiaCzynna": 33.5,
+          "energiaBierna": 18.5,
+          "temperatuta": 19
+        },
+           {
+          "id":19,
+          "date": "01.04.2018",
+          "time": "09:30",
+          "energiaCzynna": 35,
+          "energiaBierna": 20,
+          "temperatuta": 19
+        },
+           {
+          "id":20,
+          "date": "01.04.2018",
+          "time": "10:00",
+          "energiaCzynna": 37.5,
+          "energiaBierna": 21.5,
+          "temperatuta": 19
+        },
+           {
+          "id":21,
+          "date": "01.04.2018",
+          "time": "10:30",
+          "energiaCzynna": 39,
+          "energiaBierna": 22,
+          "temperatuta": 20
+        },
+           {
+          "id":22,
+          "date": "01.04.2018",
+          "time": "11:00",
+          "energiaCzynna": 42,
+          "energiaBierna": 22.5,
+          "temperatuta": 21
+        },
+           {
+          "id":23,
+          "date": "01.04.2018",
+          "time": "11:30",
+          "energiaCzynna": 44,
+          "energiaBierna": 23,
+          "temperatuta": 22
+        },
+           {
+          "id":24,
+          "date": "01.04.2018",
+          "time": "12:00",
+          "energiaCzynna": 46.5,
+          "energiaBierna": 23.5,
+          "temperatuta": 22
+        },
+           {
+          "id":25,
+          "date": "01.04.2018",
+          "time": "12:30",
+          "energiaCzynna": 48,
+          "energiaBierna": 24,
+          "temperatuta": 23
+        },
+           {
+          "id":26,
+          "date": "01.04.2018",
+          "time": "13:00",
+          "energiaCzynna": 50.5,
+          "energiaBierna": 24.5,
+          "temperatuta": 23
+        },
+           {
+          "id":27,
+          "date": "01.04.2018",
+          "time": "13:30",
+          "energiaCzynna": 53,
+          "energiaBierna": 25.5,
+          "temperatuta": 24
+        },
+           {
+          "id":28,
+          "date": "01.04.2018",
+          "time": "14:00",
+          "energiaCzynna": 54.5,
+          "energiaBierna": 26,
+          "temperatuta": 23
+        },
+           {
+          "id":29,
+          "date": "01.04.2018",
+          "time": "14:30",
+          "energiaCzynna": 56,
+          "energiaBierna": 27,
+          "temperatuta": 23
+        },
+           {
+          "id":30,
+          "date": "01.04.2018",
+          "time": "15:00",
+          "energiaCzynna": 57,
+          "energiaBierna": 27.5,
+          "temperatuta": 23
+        },
+           {
+          "id":31,
+          "date": "01.04.2018",
+          "time": "15:30",
+          "energiaCzynna": 57.5,
+          "energiaBierna": 28,
+          "temperatuta": 23
+        },
+           {
+          "id":32,
+          "date": "01.04.2018",
+          "time": "16:00",
+          "energiaCzynna": 58,
+          "energiaBierna": 28.5,
+          "temperatuta": 22
+        },
+           {
+          "id":33,
+          "date": "01.04.2018",
+          "time": "16:30",
+          "energiaCzynna": 60,
+          "energiaBierna": 30,
+          "temperatuta": 22
+        },
+           {
+          "id":34,
+          "date": "01.04.2018",
+          "time": "17:00",
+          "energiaCzynna": 63,
+          "energiaBierna": 31,
+          "temperatuta": 21
+        },
+           {
+          "id":35,
+          "date": "01.04.2018",
+          "time": "17:30",
+          "energiaCzynna": 64,
+          "energiaBierna": 32,
+          "temperatuta": 20
+        },
+           {
+          "id":36,
+          "date": "01.04.2018",
+          "time": "18:00",
+          "energiaCzynna": 67,
+          "energiaBierna": 33,
+          "temperatuta": 19
+        },
+           {
+          "id":37,
+          "date": "01.04.2018",
+          "time": "18:30",
+          "energiaCzynna": 70,
+          "energiaBierna": 34.5,
+          "temperatuta": 18
+        },
+           {
+          "id":38,
+          "date": "01.04.2018",
+          "time": "19:00",
+          "energiaCzynna": 74,
+          "energiaBierna": 35.5,
+          "temperatuta": 17
+        },
+           {
+          "id":39,
+          "date": "01.04.2018",
+          "time": "19:30",
+          "energiaCzynna": 76,
+          "energiaBierna": 37,
+          "temperatuta": 17
+        },
+        
+           {
+          "id":40,
+          "date": "01.04.2018",
+          "time": "20:00",
+          "energiaCzynna": 79,
+          "energiaBierna": 39,
+          "temperatuta": 16
+        },
+           {
+          "id":41,
+          "date": "01.04.2018",
+          "time": "20:30",
+          "energiaCzynna": 82,
+          "energiaBierna": 41,
+          "temperatuta": 16
+        },
+           {
+          "id":42,
+          "date": "01.04.2018",
+          "time": "21:00",
+          "energiaCzynna": 85,
+          "energiaBierna": 43,
+          "temperatuta": 15
+        },
+           {
+          "id":43,
+          "date": "01.04.2018",
+          "time": "21:30",
+          "energiaCzynna": 88,
+          "energiaBierna": 45,
+          "temperatuta": 15
+        },
+           {
+          "id":44,
+          "date": "01.04.2018",
+          "time": "22:00",
+          "energiaCzynna": 92,
+          "energiaBierna": 48,
+          "temperatuta": 15
+        },
+           {
+          "id":45,
+          "date": "01.04.2018",
+          "time": "22:30",
+          "energiaCzynna": 95,
+          "energiaBierna":50,
+          "temperatuta": 15
+        },
+           {
+          "id":46,
+          "date": "01.04.2018",
+          "time": "23:00",
+          "energiaCzynna": 98,
+          "energiaBierna":51,
+          "temperatuta": 16
+        },
+           {
+          "id":47,
+          "date": "01.04.2018",
+          "time": "23:30",
+          "energiaCzynna": 99,
+          "energiaBierna":51.5,
+          "temperatuta": 16
+        },
+                   {
+          "id":48,
+          "date": "02.04.2018",
+          "time": "00:00",
+          "energiaCzynna": 100,
+          "energiaBierna":52,
+          "temperatuta": 16
+        },
+        {
+          "id":1,
+          "date": "01.04.2018",
+          "time": "00:30",
+          "energiaCzynna": 12,
+          "energiaBierna": 7,
+          "temperatuta": 15
+        },
+           {
+          "id":2,
+          "date": "01.04.2018",
+          "time": "01:00",
+          "energiaCzynna": 13,
+          "energiaBierna": 7.5,
+          "temperatuta": 15
+        },
+           {
+          "id":3,
+          "date": "01.04.2018",
+          "time": "01:30",
+          "energiaCzynna": 14,
+          "energiaBierna": 8,
+          "temperatuta": 15
+        },
+           {
+          "id":4,
+          "date": "01.04.2018",
+          "time": "02:00",
+          "energiaCzynna": 15,
+          "energiaBierna": 8.5,
+          "temperatuta": 14
+        },
+           {
+          "id":5,
+          "date": "01.04.2018",
+          "time": "02:30",
+          "energiaCzynna": 16,
+          "energiaBierna": 9,
+          "temperatuta": 15
+        },
+           {
+          "id":6,
+          "date": "01.04.2018",
+          "time": "03:00",
+          "energiaCzynna": 17,
+          "energiaBierna": 9.5,
+          "temperatuta": 15
+        },
+           {
+          "id":7,
+          "date": "01.04.2018",
+          "time": "03:30",
+          "energiaCzynna": 18,
+          "energiaBierna": 10,
+          "temperatuta": 15
+        },
+           {
+          "id":8,
+          "date": "01.04.2018",
+          "time": "04:00",
+          "energiaCzynna": 20,
+          "energiaBierna": 10.5,
+          "temperatuta": 15
+        },
+           {
+          "id":9,
+          "date": "01.04.2018",
+          "time": "04:30",
+          "energiaCzynna": 21,
+          "energiaBierna": 11,
+          "temperatuta": 16
+        },
+           {
+          "id":10,
+          "date": "01.04.2018",
+          "time": "05:00",
+          "energiaCzynna": 22,
+          "energiaBierna": 11.5,
+          "temperatuta": 16
+        },
+           {
+          "id":11,
+          "date": "01.04.2018",
+          "time": "05:30",
+          "energiaCzynna": 23,
+          "energiaBierna": 12,
+          "temperatuta": 16
+        },
+           {
+          "id":12,
+          "date": "01.04.2018",
+          "time": "06:00",
+          "energiaCzynna": 24,
+          "energiaBierna": 12.5,
+          "temperatuta": 17
+        },
+           {
+          "id":13,
+          "date": "01.04.2018",
+          "time": "06:30",
+          "energiaCzynna": 25,
+          "energiaBierna": 13,
+          "temperatuta": 17
+        },
+           {
+          "id":14,
+          "date": "01.04.2018",
+          "time": "07:00",
+          "energiaCzynna": 26,
+          "energiaBierna": 14,
+          "temperatuta": 17
+        },
+           {
+          "id":15,
+          "date": "01.04.2018",
+          "time": "07:30",
+          "energiaCzynna": 27,
+          "energiaBierna": 15,
+          "temperatuta": 17
+        },
+           {
+          "id":16,
+          "date": "01.04.2018",
+          "time": "08:00",
+          "energiaCzynna": 29,
+          "energiaBierna": 16,
+          "temperatuta": 18
+        },
+           {
+          "id":17,
+          "date": "01.04.2018",
+          "time": "08:30",
+          "energiaCzynna": 31,
+          "energiaBierna": 17,
+          "temperatuta": 18
+        },
+           {
+          "id":18,
+          "date": "01.04.2018",
+          "time": "09:00",
+          "energiaCzynna": 33.5,
+          "energiaBierna": 18.5,
+          "temperatuta": 19
+        },
+           {
+          "id":19,
+          "date": "01.04.2018",
+          "time": "09:30",
+          "energiaCzynna": 35,
+          "energiaBierna": 20,
+          "temperatuta": 19
+        },
+           {
+          "id":20,
+          "date": "01.04.2018",
+          "time": "10:00",
+          "energiaCzynna": 37.5,
+          "energiaBierna": 21.5,
+          "temperatuta": 19
+        },
+           {
+          "id":21,
+          "date": "01.04.2018",
+          "time": "10:30",
+          "energiaCzynna": 39,
+          "energiaBierna": 22,
+          "temperatuta": 20
+        },
+           {
+          "id":22,
+          "date": "01.04.2018",
+          "time": "11:00",
+          "energiaCzynna": 42,
+          "energiaBierna": 22.5,
+          "temperatuta": 21
+        },
+           {
+          "id":23,
+          "date": "01.04.2018",
+          "time": "11:30",
+          "energiaCzynna": 44,
+          "energiaBierna": 23,
+          "temperatuta": 22
+        },
+           {
+          "id":24,
+          "date": "01.04.2018",
+          "time": "12:00",
+          "energiaCzynna": 46.5,
+          "energiaBierna": 23.5,
+          "temperatuta": 22
+        },
+           {
+          "id":25,
+          "date": "01.04.2018",
+          "time": "12:30",
+          "energiaCzynna": 48,
+          "energiaBierna": 24,
+          "temperatuta": 23
+        },
+           {
+          "id":26,
+          "date": "01.04.2018",
+          "time": "13:00",
+          "energiaCzynna": 50.5,
+          "energiaBierna": 24.5,
+          "temperatuta": 23
+        },
+           {
+          "id":27,
+          "date": "01.04.2018",
+          "time": "13:30",
+          "energiaCzynna": 53,
+          "energiaBierna": 25.5,
+          "temperatuta": 24
+        },
+           {
+          "id":28,
+          "date": "01.04.2018",
+          "time": "14:00",
+          "energiaCzynna": 54.5,
+          "energiaBierna": 26,
+          "temperatuta": 23
+        },
+           {
+          "id":29,
+          "date": "01.04.2018",
+          "time": "14:30",
+          "energiaCzynna": 56,
+          "energiaBierna": 27,
+          "temperatuta": 23
+        },
+           {
+          "id":30,
+          "date": "01.04.2018",
+          "time": "15:00",
+          "energiaCzynna": 57,
+          "energiaBierna": 27.5,
+          "temperatuta": 23
+        },
+           {
+          "id":31,
+          "date": "01.04.2018",
+          "time": "15:30",
+          "energiaCzynna": 57.5,
+          "energiaBierna": 28,
+          "temperatuta": 23
+        },
+           {
+          "id":32,
+          "date": "01.04.2018",
+          "time": "16:00",
+          "energiaCzynna": 58,
+          "energiaBierna": 28.5,
+          "temperatuta": 22
+        },
+           {
+          "id":33,
+          "date": "01.04.2018",
+          "time": "16:30",
+          "energiaCzynna": 60,
+          "energiaBierna": 30,
+          "temperatuta": 22
+        },
+           {
+          "id":34,
+          "date": "01.04.2018",
+          "time": "17:00",
+          "energiaCzynna": 63,
+          "energiaBierna": 31,
+          "temperatuta": 21
+        },
+           {
+          "id":35,
+          "date": "01.04.2018",
+          "time": "17:30",
+          "energiaCzynna": 64,
+          "energiaBierna": 32,
+          "temperatuta": 20
+        },
+           {
+          "id":36,
+          "date": "01.04.2018",
+          "time": "18:00",
+          "energiaCzynna": 67,
+          "energiaBierna": 33,
+          "temperatuta": 19
+        },
+           {
+          "id":37,
+          "date": "01.04.2018",
+          "time": "18:30",
+          "energiaCzynna": 70,
+          "energiaBierna": 34.5,
+          "temperatuta": 18
+        },
+           {
+          "id":38,
+          "date": "01.04.2018",
+          "time": "19:00",
+          "energiaCzynna": 74,
+          "energiaBierna": 35.5,
+          "temperatuta": 17
+        },
+           {
+          "id":39,
+          "date": "01.04.2018",
+          "time": "19:30",
+          "energiaCzynna": 76,
+          "energiaBierna": 37,
+          "temperatuta": 17
+        },
+        
+           {
+          "id":40,
+          "date": "01.04.2018",
+          "time": "20:00",
+          "energiaCzynna": 79,
+          "energiaBierna": 39,
+          "temperatuta": 16
+        },
+           {
+          "id":41,
+          "date": "01.04.2018",
+          "time": "20:30",
+          "energiaCzynna": 82,
+          "energiaBierna": 41,
+          "temperatuta": 16
+        },
+           {
+          "id":42,
+          "date": "01.04.2018",
+          "time": "21:00",
+          "energiaCzynna": 85,
+          "energiaBierna": 43,
+          "temperatuta": 15
+        },
+           {
+          "id":43,
+          "date": "01.04.2018",
+          "time": "21:30",
+          "energiaCzynna": 88,
+          "energiaBierna": 45,
+          "temperatuta": 15
+        },
+           {
+          "id":44,
+          "date": "01.04.2018",
+          "time": "22:00",
+          "energiaCzynna": 92,
+          "energiaBierna": 48,
+          "temperatuta": 15
+        },
+           {
+          "id":45,
+          "date": "01.04.2018",
+          "time": "22:30",
+          "energiaCzynna": 95,
+          "energiaBierna":50,
+          "temperatuta": 15
+        },
+           {
+          "id":46,
+          "date": "01.04.2018",
+          "time": "23:00",
+          "energiaCzynna": 98,
+          "energiaBierna":51,
+          "temperatuta": 16
+        },
+           {
+          "id":47,
+          "date": "01.04.2018",
+          "time": "23:30",
+          "energiaCzynna": 99,
+          "energiaBierna":51.5,
+          "temperatuta": 16
+        },
+                   {
+          "id":48,
+          "date": "02.04.2018",
+          "time": "00:00",
+          "energiaCzynna": 100,
+          "energiaBierna":52,
+          "temperatuta": 16
+        }
+      ] 
+}
+
+  
